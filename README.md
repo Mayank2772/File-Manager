@@ -10,4 +10,4 @@ Easily organize your files by type, browse folders, and revert changes with a si
 - Easy Navigation: Simple interface for beginners and pros.
 
 🖥️ Screenshot
-![File Organizer Screenshot](screenshot.png)
+![File Organizer Screenshot](Screenshot.png)
